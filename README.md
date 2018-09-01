@@ -1,1 +1,2 @@
-# ML-Coursera
+# ML-Udacity
+Contains code of Udacity Machine Learning Projects.
